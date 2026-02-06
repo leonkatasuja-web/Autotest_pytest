@@ -63,4 +63,4 @@ pytest tests/test_pokemon.py
 
 
 ## Автор
-Алексей Лужков()
+Алексей Лужков(https://t.me/Forkorschtain)
